@@ -308,6 +308,10 @@ li span{
     bottom:20px;
 }
 
+#centered p{
+    font-weight:bold;
+}
+
 @media screen and (max-width:900px){
     #root #centered{
         position:relative;
