@@ -309,7 +309,12 @@ li span{
 }
 
 #centered p{
-    font-weight:bold;
+    display:inline;
+    font-size:0.9em;
+}
+
+.icons li{
+    opacity:0.6;
 }
 
 @media screen and (max-width:900px){
